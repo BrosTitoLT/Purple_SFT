@@ -1,0 +1,22 @@
+{
+  "name": "purple_sft",
+  "version": "1.0.0",
+  "description": "The best team trying to be the best and deliver the best results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrosTitoLT/Purple_SFT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrosTitoLT/Purple_SFT/issues"
+  },
+  "homepage": "https://github.com/BrosTitoLT/Purple_SFT#readme",
+  "dependencies": {
+    "cypress": "^5.1.0"
+  }
+}
